@@ -17,25 +17,25 @@ FDU_METADATA = "2020 Division Group and Unit.csv"
 ## CSV Endpoints
 # Google Docs:
 # 2020 AIMS to Dashboard ID Lookup table
-AIMS_DASHBOARD = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSGZb6KRHwiSgxxsIrmxzDtEFR8Dg1QFfQ65dybwBv_EvZRCh3Fi1YqOP3vYI1uOe8M5ZZVFVuvUkZ-/pub?gid=202806724&single=true&output=csv"
+AIMS_DASHBOARD = "https://docs.google.com/spreadsheets/d/1ij0fYz3F3kdrtR3yUZdZCnctR4tZhJqV6jGRBzaHD4g/edit?gid=538756519#gid=538756519&single=true&output=csv"
 # Baseline Spend data
-BASELINE_SPEND = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSGZb6KRHwiSgxxsIrmxzDtEFR8Dg1QFfQ65dybwBv_EvZRCh3Fi1YqOP3vYI1uOe8M5ZZVFVuvUkZ-/pub?output=csv"
+BASELINE_SPEND = "https://docs.google.com/spreadsheets/d/1ij0fYz3F3kdrtR3yUZdZCnctR4tZhJqV6jGRBzaHD4g/edit?gid=1463123519#gid=1463123519&single=true&output=csv"
 # Current FY Spend Plan
-CY_SPEND_PLAN = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSGZb6KRHwiSgxxsIrmxzDtEFR8Dg1QFfQ65dybwBv_EvZRCh3Fi1YqOP3vYI1uOe8M5ZZVFVuvUkZ-/pub?gid=1856896414&single=true&output=csv"
+CY_SPEND_PLAN = "https://docs.google.com/spreadsheets/d/1ij0fYz3F3kdrtR3yUZdZCnctR4tZhJqV6jGRBzaHD4g/edit?gid=656730645#gid=656730645&single=true&output=csv"
 # Previous FY Spend Plan
-PY_SPEND_PLAN = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSGZb6KRHwiSgxxsIrmxzDtEFR8Dg1QFfQ65dybwBv_EvZRCh3Fi1YqOP3vYI1uOe8M5ZZVFVuvUkZ-/pub?gid=1042748786&single=true&output=csv"
+PY_SPEND_PLAN = "https://docs.google.com/spreadsheets/d/1ij0fYz3F3kdrtR3yUZdZCnctR4tZhJqV6jGRBzaHD4g/edit?gid=1784093551#gid=1784093551&single=true&output=csv"
 # Dashboard Appropriation for all bonds
-APPRO_DATA = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRhT8BEVrEMi3ISFPiz8ujKqmIkBgX9kvEQCdTU3eneG46cCr1-Cf1KJ5wovsej6gNPYx9UBEGN4VKi/pub?gid=20835862&single=true&output=csv"
+APPRO_DATA = "https://docs.google.com/spreadsheets/d/1934vRuISXCB54RNg7keQ_ndtxCA6rA5sruXWomKQZnY/edit?gid=713493706#gid=713493706&single=true&output=csv"
 # All bonds DeptFundProgAct lookup table
-DEPTFUNDPROGACT = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRhT8BEVrEMi3ISFPiz8ujKqmIkBgX9kvEQCdTU3eneG46cCr1-Cf1KJ5wovsej6gNPYx9UBEGN4VKi/pub?gid=1889713154&single=true&output=csv"
+DEPTFUNDPROGACT = "https://docs.google.com/spreadsheets/d/1934vRuISXCB54RNg7keQ_ndtxCA6rA5sruXWomKQZnY/edit?gid=1079529300#gid=1079529300&single=true&output=csv"
 # All bonds AIMS to dashboard ID lookup table
-AIMS_ALL_BONDS_DASHBOARD = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRhT8BEVrEMi3ISFPiz8ujKqmIkBgX9kvEQCdTU3eneG46cCr1-Cf1KJ5wovsej6gNPYx9UBEGN4VKi/pub?gid=811620554&single=true&output=csv"
+AIMS_ALL_BONDS_DASHBOARD = "https://docs.google.com/spreadsheets/d/1934vRuISXCB54RNg7keQ_ndtxCA6rA5sruXWomKQZnY/edit?gid=1834456401#gid=1834456401&single=true&output=csv"
 # All bonds spend plan
-SPEND_PLAN_ALL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRhT8BEVrEMi3ISFPiz8ujKqmIkBgX9kvEQCdTU3eneG46cCr1-Cf1KJ5wovsej6gNPYx9UBEGN4VKi/pub?gid=1092895732&single=true&output=csv"
+SPEND_PLAN_ALL = "https://docs.google.com/spreadsheets/d/1934vRuISXCB54RNg7keQ_ndtxCA6rA5sruXWomKQZnY/edit?gid=1518987762#gid=1518987762&single=true&output=csv"
 # All bonds Baseline spend
-BASELINE_SPEND_ALL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vRhT8BEVrEMi3ISFPiz8ujKqmIkBgX9kvEQCdTU3eneG46cCr1-Cf1KJ5wovsej6gNPYx9UBEGN4VKi/pub?gid=0&single=true&output=csv"
+BASELINE_SPEND_ALL = "https://docs.google.com/spreadsheets/d/1ij0fYz3F3kdrtR3yUZdZCnctR4tZhJqV6jGRBzaHD4g/edit?gid=1463123519#gid=1463123519&single=true&output=csv"
 # 2020 Bond Program Name lookup Table
-BOND_PROG_NAMES = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSGZb6KRHwiSgxxsIrmxzDtEFR8Dg1QFfQ65dybwBv_EvZRCh3Fi1YqOP3vYI1uOe8M5ZZVFVuvUkZ-/pub?gid=215255456&single=true&output=csv"
+BOND_PROG_NAMES = "https://docs.google.com/spreadsheets/d/1ij0fYz3F3kdrtR3yUZdZCnctR4tZhJqV6jGRBzaHD4g/edit?gid=1483913000#gid=1483913000&single=true&output=csv"
 # Quarterly Spend Plan
 QUARTERLY_SPEND_PLAN = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSQCnILsJPgR7WqJgsOHobhQhVR5iZX4tzBeQi7AwWaBsflrpV5P1Lg0azwsiqqSVwLzRDfxe-gEgxP/pub?gid=0&single=true&output=csv"
 
