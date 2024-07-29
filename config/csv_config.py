@@ -38,6 +38,7 @@ BASELINE_SPEND_ALL = "https://docs.google.com/spreadsheets/d/1ij0fYz3F3kdrtR3yUZ
 BOND_PROG_NAMES = "https://docs.google.com/spreadsheets/d/1ij0fYz3F3kdrtR3yUZdZCnctR4tZhJqV6jGRBzaHD4g/edit?gid=1483913000#gid=1483913000&single=true&output=csv"
 # Quarterly Spend Plan
 QUARTERLY_SPEND_PLAN = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSQCnILsJPgR7WqJgsOHobhQhVR5iZX4tzBeQi7AwWaBsflrpV5P1Lg0azwsiqqSVwLzRDfxe-gEgxP/pub?gid=0&single=true&output=csv"
+#not our data, comes from ATD
 
 CSVS = [
     {
